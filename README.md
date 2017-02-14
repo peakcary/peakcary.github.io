@@ -1,6 +1,6 @@
 ## About me
 
-This is an about me page, please view the [live demo](http://xcatliu.com).
+This is an about me page, please view the [live demo](http://peakcary.github.io).
 
 ## Built your own page
 
