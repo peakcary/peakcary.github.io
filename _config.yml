@@ -9,18 +9,18 @@ social:
     img: /assets/images/v2ex.png
     url: https://www.v2ex.com/member/peakcary?r=peakcary
   - title: Blog
-    img: /assets/images/avatar.png
+    img: /assets/images/peak.jpg
     url: http://blog.peakcary.com
   - title: Twitter
     img: /assets/images/twitter.ico
     url: https://twitter.com/peakcary
   - title: Gmail
     img: /assets/images/gmail.png
-    url: mailto:peakcary@gmail.com
+    url: mailto:peakcary@163.com
 
-avatar: /assets/images/avatar.png
+avatar: /assets/images/peak.jpg
 introduction: >
-  Hi! My nickname is peakcary.<br/> 
+  Hi! My nickname is peakcary.<br/>
   Whenever you see this lovely cat, yeah that’s me!
 
 projects:
@@ -38,20 +38,12 @@ working:
   title: Working Experience
   timeline:
     - date: Now
-    - "Microsoft: Software Engineer II"
+    - "alimusic: Front-End"
     - date: 2016-04
-    - "Meituan: Senior Front-End Engineer"
-    - date: 2015-04
-    - "Meituan: Front-End Engineer"
-    - date: 2013-06
-    - "Meituan: Front-End Engineer Internship"
-    - date: 2012-10
+    - "ctrip:charge of the department"
 
 education:
   title: Education Background
   timeline:
-    - date: 2013-06
-    - "Bachelor of WuHan University: Computer Science and Technology"
-    - date: 2009-09
-
-google_analytics: UA-45256157-13
+    - date: 2002-09--2006-06
+    - "The PLA Information Engineering University"
